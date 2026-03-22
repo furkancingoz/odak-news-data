@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-22T10:27:17.772Z",
+  "retentionDays": 7,
+  "updateIntervalMinutes": 10,
+  "categories": [
+    {
+      "name": "Gündem",
+      "slug": "gundem",
+      "count": 32
+    },
+    {
+      "name": "Spor",
+      "slug": "spor",
+      "count": 11
+    },
+    {
+      "name": "Ekonomi",
+      "slug": "ekonomi",
+      "count": 19
+    },
+    {
+      "name": "Teknoloji",
+      "slug": "teknoloji",
+      "count": 6
+    },
+    {
+      "name": "Sağlık",
+      "slug": "saglik",
+      "count": 13
+    },
+    {
+      "name": "Bilim",
+      "slug": "bilim",
+      "count": 2
+    },
+    {
+      "name": "Siyaset",
+      "slug": "siyaset",
+      "count": 9
+    },
+    {
+      "name": "Genel",
+      "slug": "genel",
+      "count": 131
+    }
+  ],
+  "dailyFiles": [
+    "2026-03-22"
+  ],
+  "stats": {
+    "totalArticles": 226,
+    "todayArticles": 226,
+    "sources": [
+      "A Spor",
+      "Anadolu Ajansı",
+      "BBC Türkçe",
+      "Bloomberg HT",
+      "CNN Türk",
+      "Donanım Haber",
+      "Dunya.com",
+      "Fotomaç",
+      "Haber Global",
+      "Haberler.com",
+      "Halk TV",
+      "Log",
+      "Mynet",
+      "NTV Haber",
+      "Sözcü"
+    ]
+  }
+}
