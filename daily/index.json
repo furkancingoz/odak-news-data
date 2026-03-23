@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2026-03-23T20:00:00Z",
+  "description": "Tüm arşivlenmiş günlerin listesi",
+  "availableDates": [
+    "2026-03-22",
+    "2026-03-23"
+  ],
+  "totalDays": 2,
+  "oldestDate": "2026-03-22",
+  "newestDate": "2026-03-23"
+}

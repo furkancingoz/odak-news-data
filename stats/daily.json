@@ -1,0 +1,18 @@
+{
+  "lastUpdated": "2026-03-23T20:00:00Z",
+  "today": {
+    "date": "2026-03-23",
+    "totalFetched": 0,
+    "totalFiltered": 0,
+    "socialMediaCandidates": 0,
+    "siteOnly": 0,
+    "skipped": 0,
+    "averageScore": 0
+  },
+  "weekly": {
+    "totalArticles": 0,
+    "byCategory": {},
+    "bySource": {},
+    "topScoring": []
+  }
+}
