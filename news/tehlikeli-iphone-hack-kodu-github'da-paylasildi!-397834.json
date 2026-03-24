@@ -1,0 +1,33 @@
+{
+  "id": "69c2f796a1a5777ea48f8acf",
+  "slug": "tehlikeli-iphone-hack-kodu-github'da-paylasildi!-397834",
+  "title": "Tehlikeli iPhone hack kodu GitHub'da paylaşıldı!",
+  "summary": "Araştırmacılar, eski iOS sürümlerini kullanan iPhone kullanıcılarının hedef alınabileceği konusunda uyarıyor. Apple, bu durumu fark ederek acil bir güncelleme yayınladı. Özellikle iOS 18 çalışan cihazların risk altında olduğu ve yüz milyonlarca cihazın DarkSword casus yazılımına karşı savunmasız olduğu belirtiliyor. Uzmanlar, kullanıcıların cihazlarını güncel tutmalarını öneriyor.",
+  "content": "Araştırmacılar, bunun herhangi bir hacker'ın Apple'ın işletim sisteminin eski sürümlerini kullanan ve henüz en son iOS 26’ya güncellememiş iPhone kullanıcılarını kolayca hedef almasına olanak sağlayacağı konusunda uyarıyor. Apple'ın eski cihazlarla ilgili kendi verilerine göre, bu durum muhtemelen yüz milyonlarca aktif olarak kullanılan iPhone ve iPad'i etkiliyor.\n\nDarkSword'un yeni sürümü uzmanlık gerektirmiyor. Mobil güvenlik girişimi iVerify’ın kurucu ortağı Matthias Frielingsdorf, TechCrunch'a verdiği demeçte, “Bu kötü. Bu araçları yeniden kullanmak çok kolay. Bunun artık kontrol altına alınabileceğini sanmıyorum. Tekrar kullanılmaya başladığını göreceğiz.” diyor. Frielingsdorf, DarkSword casus yazılımının yeni sürümlerinin daha önce analiz ettikleri sürümlerle aynı altyapıyı paylaştığını ancak dosyaların biraz farklı olduğunu söylüyor. GitHub'a yüklenen dosyaların karmaşık olmadığını, sadece HTML ve JavaScript içerdiğini, yani herkesin bunları kopyalayıp yapıştırabileceğini ve bir sunucuda barındırabileceğini söylüyor. Frielingsdorf, bu güvenlik açıklarının doğrudan kullanılabildiğini, iOS uzmanlığı gerektirmediğini de ekliyor.\n\nApple sözcüsü Sarah O'Rourke, TechCrunch'a yaptığı açıklamada, Apple’ın eski ve güncel olmayan işletim sistemlerini çalıştıran cihazları hedef alan güvenlik açığının farkında olduğunu ve 11 Mart'ta iOS’in yeni sürümlerini çalıştıramayan cihazlar için acil bir güncelleme yayınladığını söylüyor. “Yazılımınızı güncel tutmak, Apple ürünlerinizin güvenliğini korumak için yapabileceğiniz en önemli şeydir” diyen O’Rourke, güncellenmiş yazılıma sahip cihazların risk altında olmadığını ve Kilit Modu'nun da bu özel saldırıları engelleyeceğini söylüyor.\n\niVerify, Google ve Lookout'a göre, bu casus yazılım özellikle iOS 18 çalıştıran iPhone ve iPad’lerde çalışıyor. Apple'ın kendi verilerine göre, tüm iPhone ve iPad kullanıcılarının yaklaşık dörtte biri hâlâ cihazlarında iOS 18 veya daha önceki bir sürümü kullanıyor. 2.5 milyardan fazla aktif Apple cihazı olduğu düşünüldüğünde, muhtemelen DarkSword saldırılarına karşı savunmasız olan yüz milyonlarca cihaz var. Bu yüzden uzamanlar, herkesin iPhone’u güncel tutmasını öneriyor.",
+  "imageUrl": "https://www.donanimhaber.com/images/images/haber/203569/1400x788tehlikeli-iphone-hack-kodu-github-da-paylasildi.jpg",
+  "source": "Donanım Haber",
+  "category": "Teknoloji",
+  "publishedAt": "2026-03-24T20:44:06.019Z",
+  "url": "https://pusholder.app/haber/tehlikeli-iphone-hack-kodu-github'da-paylasildi!-397834",
+  "score": 64,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 10,
+    "breakingNews": 0,
+    "vipPerson": 12,
+    "category": 7,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (araç, saldırı) without VIP mention"
+}

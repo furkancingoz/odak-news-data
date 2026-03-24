@@ -1,0 +1,33 @@
+{
+  "id": "69c2cfd7a1a5777ea48f065d",
+  "slug": "istanbul'da-akaryakit-zammi-trafige-yansimadi-494654",
+  "title": "İstanbul’da akaryakıt zammı trafiğe yansımadı",
+  "summary": "Amerika Birleşik Devletleri ve İsrail’in İran’a yönelik saldırısının ardından Türkiye’de benzin ve motorin fiyatlarında artış gerçekleşti. Bugün benzine 93 kuruş, motorine ise 6 TL 58 kuruş zam yapıldı. İstanbul’da zam sonrası trafik yoğunluğunun artması beklenirken, aksine yoğunlukta artış gözlendi. Özellikle Yenibosna D-100 Karayolu’nda uzun araç kuyrukları oluştu ve trafik yoğunluğu yüzde 60’a ulaştı.",
+  "content": "Amerika Birleşik Devletleri (ABD) ve İsrail’in İran’a yönelik saldırısının ardından petrol fiyatlarının artmasıyla birlikte Türkiye’de benzin ve motorin fiyatlarında artış gerçekleşti. Bugün benzine 93 kuruş, motorine ise 6 TL 58 kuruş zam yapıldı.\n\nYaşanan zam sonrası İstanbul’da trafik yoğunluğunda azalma beklenirken, aksine yoğunluğun arttığı görüldü. Yenibosna D-100 Karayolu’nda akşam saatlerinde Avcılar ve Topkapı istikametlerinde trafik yoğunluğu yaşandı ve uzun araç kuyrukları oluştu.\n\nSaat 18.50’de, İstanbul Büyükşehir Belediyesi trafik uygulamasında trafik yoğunluğunun yüzde 60 olduğu görüldü.",
+  "imageUrl": "https://i.haberglobal.com/storage/files/images/2026/03/24/istanbulda-akaryakit-zammi-trafige-yansimadi-x5s1.jpg",
+  "source": "Haber Global",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T17:54:31.429Z",
+  "url": "https://pusholder.app/haber/istanbul'da-akaryakit-zammi-trafige-yansimadi-494654",
+  "score": 60,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 12,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (trafik, saldırı) without VIP mention"
+}

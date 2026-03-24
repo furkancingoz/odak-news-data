@@ -1,0 +1,33 @@
+{
+  "id": "69c2d651a1a5777ea48f184b",
+  "slug": "iran'in-israil'in-kuzeyine-yaptigi-misillemede-3-kisi-yaralandi-447704",
+  "title": "İran'ın İsrail'in kuzeyine yaptığı misillemede 3 kişi yaralandı",
+  "summary": "İran, İsrail'in saldırılarına misilleme olarak İsrail'in kuzey bölgelerine füze saldırısı düzenledi. Bu saldırıda 3 kişi yaralandı, bunlardan biri hastaneye kaldırılmadı. İsrail ordusu, füze ateşi tespit ettikten sonra kuzeyde sirenlerin çaldığını duyurdu. Ayrıca, füzenin isabet ettiği nokta maddi hasar gördü.",
+  "content": "İran, İsrail'in saldırılarına karşılık vererek İsrail'in kuzey bölgelerine füze saldırısı düzenledi. Bu saldırıda 3 kişi yaralandı. İsrail acil yardım servisi Kızıl Davut Yıldızı, Safed'de İran füzesinin isabet ettiği bölgede 1 kişinin yaralandığını bildirdi. Ayrıca, hastaneye nakline gerek duyulmayan 2 kişinin de füzenin etkisiyle kırılan camlardan hafif yaralandığı ve olay yerinde müdahale edildiği kaydedildi.\n\nİsrail ordusu, İran'dan füze ateşlendiğini tespit ettikten sonra, İsrail'in kuzeyinde geniş bir bölgede sirenlerin çaldığını duyurdu. İsrail'in Kanal 12 televizyonu, füzenin isabet ettiği noktada maddi hasar meydana geldiğini aktardı.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Gündem",
+  "publishedAt": "2026-03-24T18:22:09.279Z",
+  "url": "https://pusholder.app/haber/iran'in-israil'in-kuzeyine-yaptigi-misillemede-3-kisi-yaralandi-447704",
+  "score": 50,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 10,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (saldırı) without VIP mention"
+}

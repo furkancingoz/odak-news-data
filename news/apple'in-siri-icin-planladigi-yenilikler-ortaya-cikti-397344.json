@@ -1,0 +1,34 @@
+{
+  "id": "69c2f72fa1a5777ea48f89b8",
+  "slug": "apple'in-siri-icin-planladigi-yenilikler-ortaya-cikti-397344",
+  "title": "Apple’ın Siri için planladığı yenilikler ortaya çıktı",
+  "summary": "Mark Gurman’ın açıklamalarına göre, WWDC27'de iOS 27 ve macOS 27 tanıtılacak ve Siri için önemli yenilikler sunulacak. Apple, Siri için ayrı bir uygulama ekleyecek ve onu Gemini tabanlı yapay zeka ile güçlendirecek. Bu sayede Siri, hem sesli hem de yazılı görüşmeler yapabilecek. Ayrıca, yeni bir arayüz ve 'Siri’ye Sor' butonu ile her uygulamadan erişim sağlamak hedefleniyor.",
+  "content": "Mark Gurman tarafından yapılan son açıklamaya göre WWDC27 kapsamında tanıtılacak iOS 27 ve macOS 27 işletim sistemleriyle birlikte Siri için önemli duyurular yapılacak. Yeni işletim sistemlerine Siri’ye özel ayrı bir uygulama ekleyeceği belirtilen Apple, Google iş birliği kapsamında Gemini tabanlı özel bir yapay zeka modeliyle güçlendireceği Siri’yi tam anlamıyla bir sohbet botu olarak ChatGPT ve Gemini’ın karşısına da konumlandıracak. Geliştirilen bu altyapıda Siri’yle hem sesli hem de yazılı görüşmeler gerçekleştirilebilecek, sorulan sorulara cevaplar alınabilecek. Siri’yi doğrudan Dynamic Island’a konumlandırmayı düşünen Apple, iddiaya göre WWDC27’de asistanın yeni arayüzünü görücüye çıkaracak ve yine Gurman’a göre Siri’ye her uygulamadan erişim sağlanmasına imkan tanıyacak “Siri’ye Sor” isimli yeni bir buton tanıtacak.",
+  "imageUrl": "https://www.log.com.tr/wp-content/uploads/2025/10/iOS-18-Siri-Personal-Context-660x371.jpg",
+  "source": "Log",
+  "category": "Teknoloji",
+  "publishedAt": "2026-03-24T20:42:23.376Z",
+  "url": "https://pusholder.app/haber/apple'in-siri-icin-planladigi-yenilikler-ortaya-cikti-397344",
+  "score": 67,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 7,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": 0
+  },
+  "tier": "site",
+  "similarity": 0,
+  "isDarkNews": false,
+  "vipMention": [
+    "MARK_ZUCKERBERG"
+  ]
+}

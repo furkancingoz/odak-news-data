@@ -1,0 +1,33 @@
+{
+  "id": "69c2d639a1a5777ea48f182b",
+  "slug": "lubnan'in-baskenti-beyrut'un-kuzeyinde-bir-binaya-sarapnel-isabet-etti-221376",
+  "title": "Lübnan'ın başkenti Beyrut'un kuzeyinde bir binaya şarapnel isabet etti",
+  "summary": "Lübnan'ın Kisirvan ilçesinde bir binaya düşen şarapnel, önleme füzelerinin parçaları nedeniyle oluştu. Patlama sonucu birkaç kişi hafif yaralandı. Olay, Beyrut'a yaklaşık 20 kilometre mesafede bulunan ve genellikle Hristiyanların yaşadığı Sahil Alma bölgesinde meydana geldi. İsrail ordusu, İran tarafından fırlatılan bir füzenin Beyrut'a düştüğünü iddia etti ancak Lübnan resmi makamlarından henüz bir açıklama yapılmadı.",
+  "content": "Lübnan'ın başkenti Beyrut'un kuzeyindeki Kisirvan ilçesinde bir binaya şarapnel isabet etti. Lübnan haber ajansı NNA'ya göre, Kisirvan'da duyulan patlama sesleri önleme füzesi nedeniyle meydana geldi. Önleme füze parçalarının dağılması nedeniyle birkaç kişi hafif yaralandı. Önleme füzelerinden biri Kisirvan'a bağlı Faytarun beldesindeki bir alana düştü. NNA'nın saldırıya ilişkin paylaştığı fotoğraflarda, Kisirvan'a bağlı Sahil Alma'da bir binanın isabet aldığı, yapıda ve yakındaki bir araçta hasarın meydana geldiği dikkati çekti. Sosyal medyada sıkça paylaşılan görüntülerde de Kisirvan'daki bir bölgeden dumanların yükseldiği görüldü. Genellikle Hristiyanların yaşadığı Sahil Alma, Beyrut'a yaklaşık 20 kilometre uzaklıkta bulunuyor. Lübnan resmi makamlarından olaya ilişkin açıklama henüz yapılmadı. İsrail ordusundan yapılan açıklamada ise, İran tarafından fırlatılan bir füzenin Beyrut'a düştüğü iddia edildi. İsrail ordusu tarafından konuya ilişkin değerlendirme yapıldığı savunulan açıklamada, İsrail'e yönelik gerçekleştirilen İran misillemelerine ek olarak, İran'dan ateşlenen bir füzenin Beyrut'a düştüğü ileri sürüldü.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T18:21:45.488Z",
+  "url": "https://pusholder.app/haber/lubnan'in-baskenti-beyrut'un-kuzeyinde-bir-binaya-sarapnel-isabet-etti-221376",
+  "score": 48,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (araç, saldırı) without VIP mention"
+}

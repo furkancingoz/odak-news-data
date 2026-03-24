@@ -1,0 +1,33 @@
+{
+  "id": "69c2fba5a1a5777ea48f9570",
+  "slug": "iran-fuzesinin-tel-aviv'e-isabet-ettigi-anlar-ortaya-cikti-571815",
+  "title": "İran füzesinin Tel Aviv'e isabet ettiği anlar ortaya çıktı",
+  "summary": "İran, sabah saatlerinde Tel Aviv'e füze saldırısı düzenledi. Saldırı sırasında bir araç ters dönerken, bu anlar güvenlik kameraları tarafından kaydedildi. Saldırıda toplamda 6 kişi yaralandı.",
+  "content": "İran'ın sabah saatlerinde düzenlediği saldırıda bir füzenin İsrail'in başkenti Tel Aviv'e isabet ettiği anlar ortaya çıktı. Füzenin isabet ettiği sokakta bir araç ters döndü.\n\nİran'ın sabah saatlerinde İsrail'in başkenti Tel Aviv'e düzenlediği saldırıya ait yeni görüntüler ortaya çıktı. Füzenin Tel Aviv'de bir sokağa isabet ettiği anlar çevredeki güvenlik kamerası tarafından anbean kayıt altına alınırken, bir aracın füzenin isabet etmesi ile ters döndüğü görüldü. Saldırıda, 6 kişi yaralanmıştı.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T21:01:25.779Z",
+  "url": "https://pusholder.app/haber/iran-fuzesinin-tel-aviv'e-isabet-ettigi-anlar-ortaya-cikti-571815",
+  "score": 48,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (saldırı) without VIP mention"
+}

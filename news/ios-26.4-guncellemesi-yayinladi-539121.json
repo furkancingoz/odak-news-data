@@ -1,0 +1,32 @@
+{
+  "id": "69c2f516a1a5777ea48f8206",
+  "slug": "ios-26.4-guncellemesi-yayinladi-539121",
+  "title": "iOS 26.4 güncellemesi yayınladı",
+  "summary": "- **Apple**, iOS 26.4 güncellemesini yayınladı. Bu güncelleme ile birlikte **macOS Thaoe 26.4**, **iPadOS 26.4**, **watchOS 26.4** ve **tvOS 26.4** sürümleri de sunuldu.\n\n- **Apple Music** özellikleri arasında; konser keşfi, çevrimdışı müzik tanıma ve ambiyans müziği araç takımları yer alıyor.\n\n- **Erişilebilirlik** açısından yapılan iyileştirmeler arasında, parlak efektlerin azaltılması, altyazı ayarlarının kolaylaştırılması ve hareketi azaltma seçenekleri bulunuyor.\n\n- Güncelleme, ayrıca **AirPods Max 2** desteğini de içeriyor.",
+  "content": "Apple, macOS Thaoe 26.4, iPadOS 26.4, watchOS 26.4 ve tvOS 26.4 sürümleriyle beraber iOS 26.4 güncellemesini de yayınladı. Uzun zamandır test edilen güncellemenin resmi sürüm notları şöyle oldu:\n\n### Apple Music:\n- **Konserler**, arşivinizdeki sanatçıların yakınlardaki gösterilerini keşfetmenize yardımcı olur ve dinlediklerinize göre yeni sanatçılar önerir.\n- **Denetim Merkezi’ndeki Çevrimdışı Müzik Tanıma**, internet bağlantısı yokken de parçaları tanır ve çevrimiçi olduğunuzda sonuçları otomatik olarak iletir.\n- **Uyku**, Rahatlatıcı, Üretkenlik ve Sağlık için Ambiyans Müziği araç takımı, özel hazırlanmış müzik listelerini Ana Sayfa’ya getirir.\n- **Tam ekran arka planlar**, albüm ve müzik listesi sayfalarına daha sürükleyici bir görünüm verir.\n\n### Erişilebilirlik:\n- **Parlak Efektleri Azalt** ayarı, düğmeler gibi öğelere dokunulduğunda parlak yanıp sönmeleri en aza indirir.\n- **Altyazı ve açıklama ayarları**, ortamları görüntülerken altyazı simgesinden ulaşılabilir; bu, ayarların bulunmasını, özelleştirilmesini ve önizlemesini kolaylaştırır.\n- **Hareketi Azalt** ayarı, harekete duyarlı kullanıcılar için ekrandaki Liquid Glass animasyonlarını daha güvenilir biçimde azaltır.\n\nBu güncelleme, aşağıdaki iyileştirmeleri de içerir:\n- **AirPods Max 2 desteği**.\n- **Katil**…\n\n[iOS 26.4 güncellemesi yayınladı yazısı ilk olarak Teknoloji haberleri - LOG üzerinde yayınlandı.](#)",
+  "imageUrl": "https://www.log.com.tr/wp-content/uploads/2026/03/2026-03-10_11-27-04_jMxOf-660x371.jpg",
+  "source": "Log",
+  "category": "Teknoloji",
+  "publishedAt": "2026-03-24T20:33:26.809Z",
+  "url": "https://pusholder.app/haber/ios-26.4-guncellemesi-yayinladi-539121",
+  "score": 69,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 12,
+    "category": 7,
+    "highImpact": 0,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": 0
+  },
+  "tier": "site",
+  "similarity": 0,
+  "isDarkNews": false,
+  "vipMention": []
+}

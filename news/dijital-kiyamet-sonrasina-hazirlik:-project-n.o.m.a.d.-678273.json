@@ -1,0 +1,33 @@
+{
+  "id": "69c2c93da1a5777ea48eee0d",
+  "slug": "dijital-kiyamet-sonrasina-hazirlik:-project-n.o.m.a.d.-678273",
+  "title": "Dijital kıyamet sonrasına hazırlık: Project N.O.M.A.D.",
+  "summary": "Project N.O.M.A.D., internet ve merkezi altyapıların olmadığı durumlarda bilgiye erişim ve işlem yapabilme kapasitesi sunmayı hedefliyor. Proje, Wikipedia arşivi, çevrimdışı haritalar, eğitim içerikleri ve yapay zeka destekli araçlar gibi bileşenleri bir araya getiriyor. Kullanıcılara kimlik doğrulama gerektirmeden, bağımsız bir sistem sunarak kriz durumlarında da kesintisiz çalışmayı sağlıyor. Apache 2.0 lisansı ile tamamen açık kaynak ve ücretsiz olan bu sistem, bireysel kullanıcılar ve eğitim toplulukları için güçlü bir alternatif oluşturuyor.",
+  "content": "Project N.O.M.A.D., isteyen herkese internet, bulut servisleri ve merkezi altyapıların olmadığı bir senaryoda dahi bilgiye erişim ve işlem yapabilme kapasitesi sunmayı amaçlıyor. Projenin arkasında ise Crosstalk Solutions bulunuyor.\n\nTüm bilgi tek yerel sistemdeProject N.O.M.A.D., yalnızca bir yazılım değil, aynı zamanda kapsamlı bir bilgi ekosistemi sunuyor. Sistem içerisinde tam Wikipedia arşivi, çevrimdışı haritalar, eğitim içerikleri, tıbbi referanslar ve yapay zeka destekli araçlar entegre şekilde yer alıyor. Wikipedia içeriği Kiwix altyapısı üzerinden sağlanırken haritalar OpenStreetMap verileriyle çevrimdışı kullanılabiliyor.\n\nProject N.O.M.A.D. yalnızca bilgiye erişim değil, aynı zamanda üretim ve analiz araçları da sunuyor. Khan Academy kursları Kolibri üzerinden entegre edilerek ilerleme takibiyle birlikte sunuluyor. Bunun yanında CyberChef aracılığıyla şifreleme, veri analizi ve kodlama işlemleri yapılabiliyor.\n\nSistem içerisinde ayrıca not alma uygulaması, donanım performans ölçüm araçları ve içerik yönetim modülleri de bulunuyor. Tüm bu bileşenler, tarayıcı tabanlı bir yönetim arayüzü üzerinden kontrol edilebiliyor.\n\nN.O.M.A.D. için ne gerekiyor? Tamamen bağımsızProject N.O.M.A.D.’ın en güçlü yönlerinden biri de bağımsızlık ve gizlilik yaklaşımı. Sistem, hiçbir kullanıcı hesabı gerektirmiyor, varsayılan olarak kimlik doğrulama sunmuyor ve herhangi bir telemetri verisi toplamıyor. Ayrıca bulut servislerine veya harici API’lere bağımlılık tamamen ortadan kaldırılmış durumda. Bu yaklaşım, özellikle kriz, savaş veya altyapı kesintisi gibi senaryolarda sistemin kesintisiz çalışmasını hedefliyor.\n\nPiyasada benzer amaçlarla satılan statik sistemler olsa da bunların fiyatları hayli yüksek. Project N.O.M.A.D. ise Apache 2.0 lisansı ile tamamen açık kaynak ve ücretsiz olarak erişilebiliyor. Bu yönüyle yalnızca bireysel kullanıcılar için değil, eğitim ve araştırma toplulukları için de güçlü bir alternatif oluşturuyor.",
+  "imageUrl": "https://www.donanimhaber.com/images/images/haber/203583/1400x788dijital-kiyamet-sonrasina-hazirlik-project-n-o-m-a-d.jpg",
+  "source": "Donanım Haber",
+  "category": "Teknoloji",
+  "publishedAt": "2026-03-24T17:26:21.908Z",
+  "url": "https://pusholder.app/haber/dijital-kiyamet-sonrasina-hazirlik:-project-n.o.m.a.d.-678273",
+  "score": 52,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 10,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 7,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (araç) without VIP mention"
+}

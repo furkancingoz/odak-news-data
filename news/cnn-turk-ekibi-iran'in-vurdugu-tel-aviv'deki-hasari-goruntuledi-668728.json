@@ -1,0 +1,33 @@
+{
+  "id": "69c2cb63a1a5777ea48ef6b8",
+  "slug": "cnn-turk-ekibi-iran'in-vurdugu-tel-aviv'deki-hasari-goruntuledi-668728",
+  "title": "CNN TÜRK ekibi, İran’ın vurduğu Tel Aviv'deki hasarı görüntüledi",
+  "summary": "Orta Doğu'da gerilim devam ediyor. İran, Tel Aviv'e bir füze gönderdi ve bu saldırıda 6 kişi yaralandı. CNN TÜRK muhabirleri olay yerindeki hasarları belgeledi.",
+  "content": "Orta Doğu'da gerilim tırmanırken İran'ın misillemeleri de devam ediyor. İran füzelerinden biri Tel Aviv'e düştü, 6 kişi yaralandı. CNN TÜRK ekibinden Emrah Çakmak ve Halil Kahraman füzenin düştüğü yerdeki hasarın boyutunu görüntüledi.",
+  "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/69c2c9090e20a535edcc70b1.jpg",
+  "source": "CNN Türk",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T17:35:31.879Z",
+  "url": "https://pusholder.app/haber/cnn-turk-ekibi-iran'in-vurdugu-tel-aviv'deki-hasari-goruntuledi-668728",
+  "score": 61,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 18,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (saldırı) without VIP mention"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "69c2cab2a1a5777ea48ef172",
+  "slug": "antalya'da-park-halindeyken-aniden-hareket-eden-aracin-altinda-kalan-cocuk-hayatini-kaybetti-912796",
+  "title": "Antalya'da park halindeyken aniden hareket eden aracın altında kalan çocuk hayatını kaybetti",
+  "summary": "Antalya'nın Alanya ilçesinde, 11 yaşındaki Mustafa Berat Özyuva, park halindeyken aniden hareket eden aracın altında kalarak hayatını kaybetti. Olay, 22 Mart'ta Soğukpınar Mahallesi'nde meydana geldi. Çocuk, aracın hareket etmesi üzerine poşet almak için önüne geçti ancak ağır yaralandı ve hastanede kurtarılamadı.",
+  "content": "Antalya'nın Alanya ilçesinde park halindeyken aniden hareket eden aracın altında kalan 11 yaşındaki çocuk, kaldırıldığı hastanede yaşamını yitirdi.\n\nSoğukpınar Mahallesi'nde 22 Mart'ta meydana gelen kazada, A.E'nin evinin önüne park ettiği araçtan 11 yaşındaki Mustafa Berat Özyuva poşet almak istedi. Özyuva, o sırada bir anda hareket eden aracın önüne geçerek durdurmak istedi. Aracın altında kalarak ağır yaralanan Özyuva, hastaneye kaldırıldı. Özyuva, burada yapılan tüm müdahalelere rağmen kurtarılamadı.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T17:32:34.876Z",
+  "url": "https://pusholder.app/haber/antalya'da-park-halindeyken-aniden-hareket-eden-aracin-altinda-kalan-cocuk-hayatini-kaybetti-912796",
+  "score": 48,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (araç) without VIP mention"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "69c2f985a1a5777ea48f8d85",
+  "slug": "elazig'da-otomobil-ile-suv-tipi-arac-carpisti-3-kisi-yaralandi-817818",
+  "title": "Elazığ'da otomobil ile SUV tipi araç çarpıştı, 3 kişi yaralandı",
+  "summary": "Elazığ'ın Karakoçan ilçesinde bir otomobil ile SUV tipi aracın çarpışması sonucunda 3 kişi yaralandı. Olay, Tepe Mahallesi Atatürk Caddesi'nde gerçekleşti. Çarpışmanın ardından SUV tipi araç, park halindeki bir kamyonete çarparak durabildi. Yaralılar, kaza yerine gelen sağlık ekiplerinin müdahalesinin ardından hastaneye kaldırıldı. Kaza anı, bir iş yerinin güvenlik kamerasına yansıdı.",
+  "content": "Elazığ'ın Karakoçan ilçesinde otomobil ile SUV tipi aracın çarpışması sonucu 3 kişi yaralandı. O.C'nin kullandığı 23 EU 897 plakalı otomobil, Tepe Mahallesi Atatürk Caddesi'nde, S.Y.B. yönetimindeki 23 AGS 658 plakalı SUV tipi araçla çarpıştı. Çarpışmanın etkisiyle savrulan SUV tipi araç, park halindeki 23 HT 121 plakalı kamyonete çarparak durabildi.\n\nKazada, sürücüler ile 1 kişi yaralandı. İhbar üzerine kaza yerine 112 Acil Sağlık ve polis ekipleri sevk edildi. Yaralılar, sağlık ekiplerinin ilk müdahalesinin ardından Karakoçan Devlet Hastanesine kaldırıldı. Kaza anı, çevredeki bir iş yerinin güvenlik kamerasınca kaydedildi.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T20:52:21.132Z",
+  "url": "https://pusholder.app/haber/elazig'da-otomobil-ile-suv-tipi-arac-carpisti-3-kisi-yaralandi-817818",
+  "score": 48,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (kaza) without VIP mention"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "69c2f6efa1a5777ea48f85c3",
+  "slug": "iran-atom-enerjisi-kurumu:-\"busehr-nukleer-santrali-sahasina-fuze-isabet-etti\"-369357",
+  "title": "İran Atom Enerjisi Kurumu: \"Buşehr Nükleer Santrali sahasına füze isabet etti\"",
+  "summary": "İran Atom Enerjisi Kurumu, Buşehr Nükleer Enerji Santrali'ne bir füze isabet ettiğini ve olayda can kaybı ya da hasar yaşanmadığını açıkladı. ABD ve İsrail'in İran'a yönelik saldırıları kapsamında gerçekleşen bu saldırıda, füze santralin yerleşke alanına düştü. Daha önce de benzer bir saldırı yaşanmış, herhangi bir zarar meydana gelmemişti.",
+  "content": "İran Atom Enerjisi Kurumu, Buşehr Nükleer Enerji Santrali sahasına füze isabet ettiğini, olayda herhangi bir can kaybı ya da hasar yaşanmadığını duyurdu. ABD ve İsrail'in İran'a yönelik saldırılarında, Basra Körfezi kıyısında bulunan Buşehr Nükleer Enerji Santrali hedef alındı. \n\nİran Atom Enerjisi Kurumu tarafından yapılan açıklamada, bugün yerel saatle 21.08'de santral sahasına bir füzenin isabet ettiği bildirildi. Açıklamada, yapılan ilk incelemelere göre olayda herhangi bir maddi, teknik ya da can kaybı yaşanmadığı ve santralin hiçbir bölümünde hasar oluşmadığı ifade edildi.\n\nDaha önce de hedef alınmıştı. Buşehr Nükleer Enerji Santrali sahasına yönelik benzer bir saldırı, 28 Şubat'ta başlayan saldırıların ardından 17 Mart'ta da meydana gelmişti. Söz konusu olayda da füzenin doğrudan santral binasına değil yerleşke alanına isabet ettiği, herhangi bir can kaybı ya da maddi hasar oluşmadığı ve santralin hiçbir bölümünde zarar meydana gelmediği bildirilmişti.",
+  "imageUrl": "https://simplyinstall.s3.eu-central-1.amazonaws.com/files/1724801943321-haberlercom_logo.jfif",
+  "source": "Haberler.com",
+  "category": "Bilim",
+  "publishedAt": "2026-03-24T20:41:19.924Z",
+  "url": "https://pusholder.app/haber/iran-atom-enerjisi-kurumu:-\"busehr-nukleer-santrali-sahasina-fuze-isabet-etti\"-369357",
+  "score": 54,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 6,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 8,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (öl, saldırı) without VIP mention"
+}

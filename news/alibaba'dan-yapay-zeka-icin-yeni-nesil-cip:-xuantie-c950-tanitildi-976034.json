@@ -1,0 +1,32 @@
+{
+  "id": "69c2fc06a1a5777ea48f9a71",
+  "slug": "alibaba'dan-yapay-zeka-icin-yeni-nesil-cip:-xuantie-c950-tanitildi-976034",
+  "title": "Alibaba’dan yapay zekâ için yeni nesil çip: XuanTie C950 tanıtıldı",
+  "summary": "Alibaba, Damo Academy tarafından tanıtılan XuanTie C950 çipini, bulut bilişim ve yapay zekâ çıkarım süreçleri için optimize edilmiş bir CPU olarak sunuyor. RISC-V mimarisi üzerine inşa edilen bu çip, kullanıcıların ihtiyaçlarına göre özelleştirilebiliyor. Alibaba, yapay zekâ stratejisini genişletmekte ve donanım geliştirme alanında önemli adımlar atmaktadır. Ayrıca, ABD'nin yaptırımları nedeniyle Çinli şirketler yerel çözümlere yönelmekte, bu durum RISC-V gibi açık mimarilerin önemini artırmaktadır.",
+  "content": "Alibaba'nın AI Çipi Özellikle Yapay Zekânın Çıkarım (Inference) Tarafında Kullanışlı Olacak\n\nŞirketin araştırma kolu Damo Academy tarafından tanıtılan XuanTie C950, özellikle bulut bilişim ve yapay zekâ çıkarım (inference) süreçleri için optimize edilmiş bir merkezi işlem birimi (CPU) olarak öne çıkıyor. Bildiğiniz gibi yapay zekânın eğitim süreci kadar, eğitilmiş modellerin gerçek dünyada hızlı ve verimli şekilde çalıştırılması da büyük önem taşıyor. İşte bu noktada devreye giren “inference” odaklı çipler, kullanıcıların taleplerine anlık yanıt verebilen sistemlerin temelini oluşturuyor.\n\nXuanTie C950’nin dikkat çeken özelliklerinden biri, kullanıcıların kendi ihtiyaçlarına göre özelleştirebileceği esnek bir mimari sunması. Bu çip, açık kaynaklı bir işlemci mimarisi olan RISC-V üzerine inşa edildi. RISC-V, lisans maliyetlerinin düşük olması ve özelleştirmeye açık yapısı sayesinde son yıllarda özellikle Çin’de giderek daha fazla ilgi görüyor. Bu mimari, geleneksel olarak pazara hakim olan Arm ve Intel gibi şirketlerin çözümlerine alternatif olarak konumlanıyor.\n\nAlibaba’nın bu hamlesi, şirketin uzun vadeli yapay zekâ stratejisinin bir parçası olarak görülüyor. CEO Eddie Wu, daha önce yaptığı açıklamalarda Alibaba’nın yalnızca yazılım geliştiren bir şirket olmanın ötesine geçerek, donanımdan uygulama katmanına kadar uzanan tam teşekküllü bir yapay zekâ sağlayıcısı olmayı hedeflediğini belirtmişti. Nitekim şirket bir süredir bu yönde önemli adımlar atıyor. Alibaba'nın çip geliştirme birimi T-Head, halihazırda bazı yapay zekâ hızlandırıcılarını seri üretime sokmuş durumda.\n\nABD'nin Yaptırımları Çinli Şirketleri Yerel Çözümlere İtiyor\n\nAlibaba’nın çip alanındaki bu atılımı, yalnızca teknolojik değil, aynı zamanda jeopolitik gelişmelerle de yakından ilişkili. ABD ile Çin arasında süregelen teknoloji rekabeti, Çinli şirketleri dışa bağımlılığı azaltacak alternatif çözümler geliştirmeye yönlendiriyor. Hatırlarsanız geçmişte Huawei ile iş yapan Arm’a kısıtlamalar getirilmiş, benzer şekilde Nvidia'nın Çin'e yaptığı satışlar da kısıtlanmıştı. ABD'nin bu yaptırımları, RISC-V gibi açık mimarilerin önemini daha da artırıyor. Alibaba da uzun süredir bu alana yatırım yaparak, kendi ekosistemini güçlendirmeyi amaçlıyor.",
+  "imageUrl": "https://www.donanimhaber.com/images/images/haber/203570/1400x788alibaba-dan-yapay-zek-icin-yeni-nesil-cip-xuantie-c950.jpg",
+  "source": "Donanım Haber",
+  "category": "Teknoloji",
+  "publishedAt": "2026-03-24T21:03:02.400Z",
+  "url": "https://pusholder.app/haber/alibaba'dan-yapay-zeka-icin-yeni-nesil-cip:-xuantie-c950-tanitildi-976034",
+  "score": 84,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 10,
+    "breakingNews": 0,
+    "vipPerson": 12,
+    "category": 7,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 0,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": 0
+  },
+  "tier": "social",
+  "similarity": 0,
+  "isDarkNews": false,
+  "vipMention": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "69c2ee55a1a5777ea48f6c2b",
+  "slug": "iran'dan-israil'e-fuze-saldirisi:-cok-sayida-yarali-var-503524",
+  "title": "İran'dan İsrail'e füze saldırısı: Çok sayıda yaralı var",
+  "summary": "ABD-İsrail ve İran arasında gerginlik sürüyor. İran, İsrail'e düzenlediği füze saldırısında Bnei Brak kentine isabet eden bir füzeyle en az 7 kişinin yaralanmasına neden oldu. İsrail basını, füzelerden birinin misket bombası taşıdığını belirtirken, saldırıda birçok bina ve aracın hasar gördüğü ifade edildi.",
+  "content": "ABD-İsrail ve İran arasında karşılıklı saldırılar devam ediyor. İran, İsrail'e bir kez daha füze saldırısı düzenledi. Füzelerden birinin Bnei Brak kentine isabet etmesi sonucu en az 7 kişi yaralandı.\n\nİsrail basını, füzelerden birinin misket bombası taşıdığını öne sürdü. Saldırıda çok sayıda bina ve araç hasar gördü.",
+  "imageUrl": "https://i.haberglobal.com/storage/files/images/2026/03/24/irandan-israile-fuze-saldirisi-cok-sayida-yarali-var-qj2a.jpg",
+  "source": "Haber Global",
+  "category": "Genel",
+  "publishedAt": "2026-03-24T20:04:37.556Z",
+  "url": "https://pusholder.app/haber/iran'dan-israil'e-fuze-saldirisi:-cok-sayida-yarali-var-503524",
+  "score": 56,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 5,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 8,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 8,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0,
+    "similarity": 0,
+    "darkNewsPenalty": -20
+  },
+  "tier": "skip",
+  "similarity": 0,
+  "isDarkNews": true,
+  "vipMention": [],
+  "filterReason": "Dark news (saldırı) without VIP mention"
+}
