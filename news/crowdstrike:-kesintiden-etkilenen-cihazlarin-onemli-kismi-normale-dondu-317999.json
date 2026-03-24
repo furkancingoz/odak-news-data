@@ -1,0 +1,27 @@
+{
+  "id": "68d158c825b7a73a2d752561",
+  "slug": "crowdstrike:-kesintiden-etkilenen-cihazlarin-onemli-kismi-normale-dondu-317999",
+  "title": "CrowdStrike: Kesintiden etkilenen cihazların önemli kısmı normale döndü",
+  "summary": "22 Temmuz 2024'te yaşanan bilgisayar kesintilerinin ardından CrowdStrike, etkilenen cihazların önemli kısmının normale döndüğünü açıkladı. Hatalı bir güvenlik güncellemesi nedeniyle 8,5 milyon bilgisayar etkilendi. Kesinti, işletmeler, bankalar, hastaneler ve havayolları gibi birçok sektörde zorlanmalara yol açtı. ABD'de 1400'den fazla uçuş iptal edildi. Microsoft sorunun boyutunu Cuma sabahı netleştirdi ve yaşanan olay, Elon Musk tarafından \"en büyük IT fiyaskosu\" olarak nitelendirildi.",
+  "content": "CrowdStrike: Kesintiden etkilenen cihazların önemli kısmı normale döndü\n\n22 Temmuz 2024 Cuma günü yaşanan bilgisayar kesintilerinin ardından siber güvenlik şirketi CrowdStrike, kesintilerden etkilenen cihazların \"önemli sayıda\" kısmının yeniden normal çalışmaya başladığını açıkladı. Hatalı güvenlik güncellemesi Microsoft Windows işletim sistemi kullanan bilgisayarların çökmesine yol açan şirket, sosyal medya paylaşımında, \"tüm sistemleri yeniden çalışır hale getirmeye odaklanmaya devam ettiklerini\" belirtti. Microsoft, en büyük kesintilerinden biri olarak tanımlanan olayda, dünya genelinde 8,5 milyon bilgisayarın etkilendiğini tahmin ediyor.\n\nKesinti nedeniyle işletmeler, bankalar, hastaneler, havayolları en ağır darbeyi alırken, hala bilgisayar sistemlerini tam anlamıyla çalışır hale getirmekte zorlanıyorlar. CrowdStrike'ın açıklamasında \"Bunun herkese yaptığı büyük etkinin farkındayız. Müşterilerimiz, ortaklarımız ve IT ekipleri yorulmadan çalışıyorlar. Herkese büyük minnettarlık duyuyoruz. Yaratılan rahatsızlık nedeniyle özür dileriz\" ifadeleri yer aldı.\n\nAncak şirket, kesintiden hala kaç cihazın etkilendiğini söylemedi. Havacılık izleme platformu FlightAware'e göre ABD'de kesinti nedeniyle Pazar günü 1400'den fazla uçuş iptal edildi. Delta ve United Airlines ABD'de kesintiden en kötü etkilenen havacılık şirketleri. Türk Havayolları benzer şekilde uçuş iptalleri duyurdu.\n\nİngiltere'de Sky News kanalı bir saatten uzun süre yayın yapamadı. Microsoft'a göre sorun Perşembe günü TSİ 21:00'da başladı ve siber güvenlik yazılımı CrowdStrike Falcon'un olduğu Windows kullanıcılarını etkiledi, ancak sorunun tam boyutu ancak Cuma sabahı netleşti. Cuma günü dünya çapında yayılan sorunla birlikte Windows işletim sistemi ile sağlanan pek çok hizmet verilemedi. Ülkelerin havacılık, sağlık, bankacılık ve yayıncılık gibi temel sektörlerinden peş peşe sorun açıklamaları geldi.\n\nDünyanın doğusundaki Avustralya ve Yeni Zelanda'dan gelen ilk haberlerin kısa sürede, dünyanın bu bölgesi ile sınırlı olmadığı anlaşıldı. Yaşananları dünyanın en zengin iş insanlarından Elon Musk, \"Şimdiye kadarki en büyük IT fiyaskosu\" diye nitelendirdi.",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e47/live/d4cfbb70-47d3-11ef-96a8-e710c6bfc866.jpg",
+  "source": "BBC Türkçe",
+  "category": "Ekonomi",
+  "publishedAt": "2025-09-22T14:10:16.523Z",
+  "url": "https://pusholder.app/haber/crowdstrike:-kesintiden-etkilenen-cihazlarin-onemli-kismi-normale-dondu-317999",
+  "score": 94,
+  "scoreBreakdown": {
+    "base": 40,
+    "source": 20,
+    "breakingNews": 0,
+    "vipPerson": 0,
+    "category": 11,
+    "highImpact": 10,
+    "specialDay": 0,
+    "viral": 8,
+    "hasImage": 5,
+    "clickbait": 0,
+    "lowValue": 0
+  },
+  "tier": "social"
+}
